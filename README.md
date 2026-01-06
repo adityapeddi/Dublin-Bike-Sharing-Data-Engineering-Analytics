@@ -1,4 +1,4 @@
-# Dublin-Bike-Sharing-Data-Engineering-Analytics
+# Dublin Bike Sharing – Data Engineering & Analytics Case Study
 This project presents an end-to-end analysis of Dublin’s public bike sharing stations.
 It brings together real-time station information and historical weather observations to explore how environmental and temporal factors influence bike availability and usage across the city.
 
